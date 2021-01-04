@@ -3,8 +3,8 @@ from pygame.locals import *
 import pygame
 
 #图片位置声明
-background_image_filename = 'sushiplate.jpg'
-mouse_image_filename = 'fugu.png'
+background_image_filename = './1/sushiplate.jpg'
+mouse_image_filename = './1/fugu.png'
 
 #pygame的初始化
 pygame.init()
